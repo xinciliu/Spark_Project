@@ -1,0 +1,2 @@
+Select tradeCurrency, Count(TradeId)as num_of_trades From transactions Group by tradeCurrency
+
